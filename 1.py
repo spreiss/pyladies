@@ -1,1 +1,1 @@
-print("Kocham Mimka bardzo, a Ula urodziła")
+print("Kocham Mimka bardzo")
